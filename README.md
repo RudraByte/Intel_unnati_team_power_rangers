@@ -75,10 +75,7 @@ This will:
 - [DnCNN: Denoising Convolutional Neural Network](https://github.com/SaoYan/DnCNN)
 - PyTorch, scikit-image, and PIL for image processing.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
 
-For any queries or suggestions, feel free to reach out to [Your Name](mailto:your-email@example.com) or open an issue.
+For any queries or suggestions, feel free to reach out to [Your Name](mailto:anshrudrapandey@example.com) or open an issue.
