@@ -66,7 +66,7 @@ This will:
 
 ## 📈 Results
 
-- **Average SSIM**: ~0.85 (depends on data and training)
+- **Average SSIM**: ~0.91 (depends on data and training)
 - **Inference Speed**: 20–40 FPS on GPU
 - Lightweight student model suitable for real-time applications.
 
