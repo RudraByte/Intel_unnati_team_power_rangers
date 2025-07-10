@@ -78,4 +78,4 @@ This will:
 
 ## 📬 Contact
 
-For any queries or suggestions, feel free to reach out to [Your Name](mailto:anshrudrapandey@example.com) or open an issue.
+For any queries or suggestions, feel free to reach out to [anshrudrapandey@example.com] or open an issue.
